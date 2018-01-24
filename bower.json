@@ -1,0 +1,26 @@
+{
+  "name": "web-presentation",
+  "version": "1.0.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "license": "MIT",
+  "description": "Implementation of reveal.js with pug",
+  "authors": [
+    "Victor R. Nitu <nitu.v.r@gmail.com>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victornitu/web-presentation.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
